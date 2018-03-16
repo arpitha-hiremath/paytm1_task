@@ -1,0 +1,32 @@
+.section1{
+  background: linear-gradient(119.69deg,#0080ff,#00d5ff 82%);
+  width: max-width;
+  height:600px;
+
+
+}
+
+.section11{
+  background: linear-gradient(119.69deg,#0080ff,#00d5ff 82%);
+  width: max-width;
+  height:600px;
+
+.navbar{
+  background-color:transparent;
+  border-color:;
+
+}
+
+#id1{
+  background-color: transparent;
+  border-color: transparent;
+}
+
+
+.custom{
+  padding: 32px;
+}
+
+.unorder{
+  color:blue;
+}
